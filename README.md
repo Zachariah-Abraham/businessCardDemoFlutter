@@ -2,6 +2,7 @@
 
 ## Run
 
+<<<<<<< HEAD
 flutter run --release
 Channel: master
 Web version not tested. 
